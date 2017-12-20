@@ -1,4 +1,4 @@
-# Team21 Sprint 2
+# Aces Up
 ### Overview
 We've added node, yarn, and webpack to the project to compile our javascript front end in React Js. 
 There are Maven goals to download all of these dependencies and migrate the bundled 
